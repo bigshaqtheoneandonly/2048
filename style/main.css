@@ -336,19 +336,19 @@ hr {
     background: #ede0c8;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('../andris/2.jpg'); }
+    background: url('../2.jpg'); }
 background-size: 100%;
   .tile.tile-16 .tile-inner {
-    background: url('../andris/3.jpg'); }
+    background: url('../3.jpg'); }
 background-size: 100%;
   .tile.tile-32 .tile-inner {
-    background: url('../andris/1.jpg'); }
+    background: url('../1.jpg'); }
 background-size: 100%;
   .tile.tile-64 .tile-inner {
-    background: url('../anris/4.jpg'); }
+    background: url('../4.jpg'); }
 background-size: 100%;
   .tile.tile-128 .tile-inner {
-    background: url('../andris/5.jpg');
+    background: url('../5.jpg');
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
